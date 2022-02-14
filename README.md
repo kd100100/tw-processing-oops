@@ -1,3 +1,3 @@
-# Processing - Procedural Programming
+# Processing - OOPs Programming
 
-![Procedural](Procedural.gif)
+![OOPs](OOPs.gif)
